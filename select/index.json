@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "もののけだもの",
+  "base_artist": "パスピエ",
+  "createdAt": "2026-02-14T22:53:42.369784Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もののけだもの",
+      "artist": "パスピエ",
+      "has_synced": false,
+      "path": "select/pl_01_もののけだもの_パスピエ.txt"
+    }
+  ]
+}
